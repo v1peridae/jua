@@ -25,7 +25,7 @@ We held a hackathon from 9AM to 5PM with over 78 girls from all parts of Nairobi
 ### Workshops:
 
 #### Web Dev
-Elizabeth did a workshop on how to make a simple HTML website. She taught the girls how to rebuild a simplified version of the Jua website in Swahili. You can checkout her slides [here](https://docs.google.com/presentation/d/1MkF7E8tiTe4nTu-s3JJ_qPv0HBm_Hw8N8gdmwvkJ7vU/edit?usp=sharing) <br><br>
+Elizabeth did a workshop on how to make a simple HTML website. She taught the girls how to rebuild a simplified version of the Jua website in Swahili. You can checkout her slides [here](https://docs.google.com/presentation/d/1MkF7E8tiTe4nTu-s3JJ_qPv0HBm_Hw8N8gdmwvkJ7vU/edit?usp=sharing). <br><br>
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/dd5b823756675fafcbdd392a14de89366e387b3c_dsc00190.jpg" width="50%">
 
 
