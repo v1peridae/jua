@@ -35,7 +35,7 @@ Louisa did a workshop to make a simple text-based game in Python where she taugh
 
 
 ## Dinner
-The night before our hackathon, we hosted an incredible dinner at the Atrium - Karen Blixen Coffee Gardens with 15 incredible women in tech, 4 Hack Clubbers, 7 Aspiring Girls in Tech and 2 Hack Club Staff. We got to speak to inspiring figures in tech like Lorna Ogolla and Isis Nyong'o! The dinner was full of so many learnings and fun! <br><br>
+The night before our hackathon, we hosted an incredible dinner at the Atrium - Karen Blixen Coffee Gardens with 15 incredible women in tech, 4 Hack Clubbers, 7 Aspiring Girls in Tech and 2 Hack Club Staff. We got to speak to inspiring figures in tech like Lorna Ogolla, the Partnerships Lead at Google Research Africa, Isis Nyong'o, one of Kenya's first women leaders in tech working at Viacom, Google and founding Malaica, or Kathleen Siminyu, a AI and AI Policy Researcher at The Distributed AI Research Institute! The dinner was full of so many learnings and fun! <br><br>
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c46d853dfaca62df2b586ae88065fae996211e30_dsc00066.jpg)
 
 ## Budget
