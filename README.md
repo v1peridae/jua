@@ -25,32 +25,34 @@ We held a hackathon from 9AM to 5PM with over 78 girls from all parts of Nairobi
 ### Workshops:
 
 #### Web Dev
-Elizabeth did a workshop on how to make a simple HTML website.<br><br>
+Elizabeth did a workshop on how to make a simple HTML website. She taught the girls how to rebuild a simplified version of the Jua website in Swahili. You can checkout her slides [here](https://docs.google.com/presentation/d/1MkF7E8tiTe4nTu-s3JJ_qPv0HBm_Hw8N8gdmwvkJ7vU/edit?usp=sharing) <br><br>
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/dd5b823756675fafcbdd392a14de89366e387b3c_dsc00190.jpg" width="50%">
 
 
 #### Create Your Own Adventure
-Louisa did a workshop to make a simple text-based game in Python.<br><br>
+Louisa did a workshop to make a simple text-based game in Python where she taught the girls how to make a game themed around their interests in Swahili. [Here](https://www.figma.com/slides/FKN2yjBnaUK4PDnsyk00iP/CYOA?node-id=21-12&t=ebww4pT4ZEylf473-0) are her slides. <br><br>
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/99e414770dcbd486e1876ff9d807653be54ffb22_dsc00217__1_.jpg" width="50%">
 
 
 ## Dinner
-The night before our hackathon, we hosted an incredible dinner at the Atrium - Karen Blixen Coffee Gardens with 15 incredible women in tech, 4 Hack Clubbers, 7 Aspiring Girls in Tech and 2 Hack Club Staff. <br><br>
+The night before our hackathon, we hosted an incredible dinner at the Atrium - Karen Blixen Coffee Gardens with 15 incredible women in tech, 4 Hack Clubbers, 7 Aspiring Girls in Tech and 2 Hack Club Staff. We got to speak to inspiring figures in tech like Lorna Ogolla and Isis Nyong'o! The dinner was full of so many learnings and fun! <br><br>
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c46d853dfaca62df2b586ae88065fae996211e30_dsc00066.jpg)
 
 ## Budget
 Our budget is transparent on [HCB](https://hcb.hackclub.com/jua/).
 | Items                             | Amount in USD |
 | --------------------------------- | --------- |
-| Catering (cannot include alcohol) | 2,100     |
-| Hotels                            | 770     |
+| Catering (cannot include alcohol) | 2,150     |
+| Hotels                            | 775     |
 | Flights                           | 1,500     |
 | Transportation                     | 340     |
-| Food for organisers               | 150       |
-| Merch for organisers              | 200      |
-| Hackathon expenses                | 1980       |
+| Food for organisers               | 140       |
+| Merch for organisers              | 210      |
+| Hackathon expenses                | 1400       |
+|Hackathon food | 660|
+|Hackathon venue| 590|
 | Dinner expenses                   | 270       |
-| TOTAL                             | 7,815     |
+| TOTAL                             | 7,950     |
 
 ## Website
 Our [website](https://jua.hackclub.com) was built by Regina, Louisa and Nadeen.
