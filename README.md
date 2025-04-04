@@ -42,7 +42,7 @@ The night before our hackathon, we hosted an incredible dinner at the Atrium - K
 Our budget is transparent on [HCB](https://hcb.hackclub.com/jua/).
 | Items                             | Amount in USD |
 | --------------------------------- | --------- |
-| Catering (cannot include alcohol) | 2,150     |
+| Catering | 2,150     |
 | Hotels                            | 775     |
 | Flights                           | 1,500     |
 | Transportation                     | 340     |
