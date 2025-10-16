@@ -3,6 +3,8 @@
 
 Jua is [Hack Club](https://hackclub.com)'s 16th [Athena](https://athena.hackclub.com) event and 1st overseas event in Nairobi, Kenya that took place on the 7th and 8th of March, 2025 <3 The goal of this event was to create a safe space for girls to learn how to code and close the gender gap in tech.
 
+### Check the YouTube video [here](https://youtu.be/S5dKIlBN_1s?si=yeLazHp7dkjp5-_Z)
+
 
 ## The Organising Team:
 
